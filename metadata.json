@@ -1,0 +1,6 @@
+{
+  "name": "Brainify Explainer Studio",
+  "description": "An interactive, animated 1-minute explainer and promotional video maker featuring an AI presenter showcasing the Brainify educational platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
